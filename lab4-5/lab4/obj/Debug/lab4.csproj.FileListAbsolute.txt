@@ -1,0 +1,26 @@
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\bin\Debug\lab4.exe
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\bin\Debug\lab4.pdb
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.exe
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.pdb
+c:\users\sgsgssgs\documents\visual studio 2015\Projects\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\sgsgssgs\Documents\Visual Studio 2015\Projects\lab4\lab4\obj\Debug\lab4.Form2.resources
+C:\Users\sgsgssgs\Documents\Visual Studio 2015\Projects\lab4\lab4\obj\Debug\lab4.Form3.resources
+C:\Users\sgsgssgs\Documents\Visual Studio 2015\Projects\lab4\lab4\obj\Debug\lab4.Form4.resources
+C:\Users\sgsgssgs\Desktop\Study 2016-17\ООП\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.exe
+C:\Users\sgsgssgs\Desktop\Study 2016-17\ООП\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.pdb
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.exe
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.pdb
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\bin\Debug\lab4.exe
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\bin\Debug\lab4.pdb
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.Form2.resources
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.Form3.resources
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.Form4.resources
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\matvi\Desktop\Нова папка\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\matvi\Desktop\ооп\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.exe
+C:\Users\matvi\Desktop\ооп\Л4-Л5\lab4-5\lab4\obj\Debug\lab4.pdb
